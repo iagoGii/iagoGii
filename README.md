@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Analista de Testes e Qualidade de software Pleno
 - 🌱 Estudando e me aprimorando sobre automações de Testes
-- 
 ##
 
 <div>
