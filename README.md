@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Analista de Testes e Qualidade de software Pleno
 - 🌱 Estudando e me aprimorando sobre automações de Testes
-##
+
 
 <div>
   <a href="https://beacons.ai/iagoGii">
@@ -10,7 +10,6 @@
 </div>
 
 ##
-
 
 <div> 
     <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
