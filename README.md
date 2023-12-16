@@ -3,8 +3,13 @@
 - 🔭 Hoje trabalho como Analista de Testes e Qualidade de software Pleno
 - 🌱 Estudando e me aprimorando sobre automações de Testes
 
+<a href="https://github.com/iagoGii/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iagoGii&show_icons=true&theme=gruvbox&count_private=true" />
+</a>
+<a href="https://github.com/iagoGii/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoGii&show_icons=true&theme=gruvbox&count_private=true&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoGii&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
