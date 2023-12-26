@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Iago Oliveira Guedes
 
 - 🔭 Hoje trabalho como Analista de Testes e Qualidade de software Pleno
-- 🌱 Estudando e me aprimorando sobre automações de Testes
+- 🌱 Estudando e me aprimorando sobre automações de Testes E2E Front-end e Back-end
 
 <a href="https://github.com/iagoGii(https://github.com/iagoGii)/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iagoGii&count_private=false&show_icons=true&theme=gruvbox" />
