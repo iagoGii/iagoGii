@@ -1,8 +1,23 @@
-### Olá! Eu sou o Iago Oliveira Guedes
+👋 Olá! Eu sou um Quality Assurance Engineer dedicado a garantir a máxima qualidade de software através de práticas de teste rigorosas e inovadoras. Com uma paixão por automação de testes e melhoria contínua, tenho experiência em diversas ferramentas e tecnologias que garantem a entrega de software robusto e sem bugs.
 
-- 🔭 Trabalho como Quality Assurance Automation - Analista de qulidade e automação de testes
-- 🌱 Estudando e me aprimorando sobre automações de Testes E2E Front-end e Back-end
-- Graduado em Eng. de software e pós graduado em Governança de TI.
+Principais Habilidades:
+
+Automação de Testes (Cypress, Robot Framework, Maestro)
+Testes de API (Postman, Insomnia, REST Assured)
+Integração Contínua / Entrega Contínua (CI/CD) com Bitbucket, GitHub Actions.
+Linguagens de Programação: JavaScript, Python.
+Ferramentas de Gestão de Testes (JIRA, Zephyr, TestLink, Mantis)
+Testes Funcionais e de Regressão.
+
+Interesses:
+
+Melhoria contínua dos processos de QA
+Exploração de novas ferramentas e tecnologias de teste
+Colaboração em projetos Open Source
+Participação em comunidades e conferências de QA
+
+📫 Conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub para saber mais sobre meu trabalho!
+
 
 <a href="https://github.com/iagoGii(https://github.com/iagoGii)/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iagoGii&count_private=false&show_icons=true&theme=gruvbox" />
