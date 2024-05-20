@@ -1,5 +1,4 @@
 👋 Olá! Eu sou um Quality Assurance Engineer dedicado a garantir a máxima qualidade de software através de práticas de teste rigorosas e inovadoras. Com uma paixão por automação de testes e melhoria contínua, tenho experiência em diversas ferramentas e tecnologias que garantem a entrega de software robusto e sem bugs.
-##
 
 ## Principais Habilidades:
 
@@ -10,7 +9,6 @@ Linguagens de Programação: JavaScript, Python.
 Ferramentas de Gestão de Testes (JIRA, Zephyr, TestLink, Mantis)
 Testes Funcionais e de Regressão.
 
-##
 
 ## Interesses:
 
