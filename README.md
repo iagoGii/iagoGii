@@ -25,6 +25,14 @@ Participação em comunidades e conferências de QA.
 
 ##
 
+<div> 
+  <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:iagooliz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+</div>
+
+##
+
 <a href="https://github.com/iagoGii(https://github.com/iagoGii)/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iagoGii&count_private=false&show_icons=true&theme=gruvbox" />
 </a>
@@ -42,14 +50,6 @@ Participação em comunidades e conferências de QA.
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:iagooliz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
-</div>
   
 ##
     
