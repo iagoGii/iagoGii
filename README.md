@@ -23,8 +23,6 @@ Participação em comunidades e conferências de QA.
 
 📫 Conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub para saber mais sobre meu trabalho!
 
-##
-
 <div> 
   <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:iagooliz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
