@@ -11,12 +11,16 @@ Linguagens de Programação: JavaScript, Python.
 Ferramentas de Gestão de Testes (JIRA, Zephyr, TestLink, Mantis)
 Testes Funcionais e de Regressão.
 
+##
+
 ## Interesses:
 
 Melhoria contínua dos processos de QA
 Exploração de novas ferramentas e tecnologias de teste
 Colaboração em projetos Open Source
-Participação em comunidades e conferências de QA
+Participação em comunidades e conferências de QA.
+
+##
 
 📫 Conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub para saber mais sobre meu trabalho!
 
