@@ -1,6 +1,6 @@
 👋 Olá! Eu sou um Quality Assurance Engineer dedicado a garantir a máxima qualidade de software através de práticas de teste rigorosas e inovadoras. Com uma paixão por automação de testes e melhoria contínua, tenho experiência em diversas ferramentas e tecnologias que garantem a entrega de software robusto e sem bugs.
 
-Principais Habilidades:
+## Principais Habilidades:
 
 Automação de Testes (Cypress, Robot Framework, Maestro)
 Testes de API (Postman, Insomnia, REST Assured)
@@ -9,14 +9,14 @@ Linguagens de Programação: JavaScript, Python.
 Ferramentas de Gestão de Testes (JIRA, Zephyr, TestLink, Mantis)
 Testes Funcionais e de Regressão.
 
-Interesses:
+## Interesses:
 
 Melhoria contínua dos processos de QA
 Exploração de novas ferramentas e tecnologias de teste
 Colaboração em projetos Open Source
 Participação em comunidades e conferências de QA
 
-📫 Conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub para saber mais sobre meu trabalho!
+## 📫 Conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub para saber mais sobre meu trabalho!
 
 
 <a href="https://github.com/iagoGii(https://github.com/iagoGii)/github-readme-stats">
@@ -40,9 +40,8 @@ Participação em comunidades e conferências de QA
 ##
 
 <div> 
-    <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:iagooliz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/IagoOliveira#4069" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:iagooliz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 </div>
   
