@@ -1,54 +1,53 @@
-👋 Olá! Eu sou um Quality Assurance Engineer dedicado a garantir a máxima qualidade de software através de práticas de teste rigorosas e inovadoras. Com uma paixão por automação de testes e melhoria contínua, tenho experiência em diversas ferramentas e tecnologias que garantem a entrega de software robusto e sem bugs.
+<h2 align="left">Hi 👋! My name is Iago Oliveira.</h2>
 
-## Principais Habilidades:
+###
 
-Automação de Testes (Cypress, Robot Framework, Maestro)
-Testes de API (Postman, Insomnia, REST Assured)
-Integração Contínua / Entrega Contínua (CI/CD) com Bitbucket, GitHub Actions.
-Linguagens de Programação: JavaScript, Python.
-Ferramentas de Gestão de Testes (JIRA, Zephyr, TestLink, Mantis)
-Testes Funcionais e de Regressão.
+<p align="left">👋 Olá! Eu sou um Quality Assurance dedicado a garantir a máxima qualidade de software através de práticas de teste rigorosas e inovadoras. Com uma paixão por automação de testes e melhoria contínua, tenho experiência em diversas ferramentas e tecnologias que garantem a entrega de software robusto e sem bugs.<br><br>Principais Habilidades:<br>Automação de Testes (Cypress, Robot Framework, Maestro) Testes de API (Postman, Insomnia, REST Assured) Integração Contínua / Entrega Contínua (CI/CD) com Bitbucket, GitHub Actions. Linguagens de Programação: JavaScript, Python. Ferramentas de Gestão de Testes (JIRA, Zephyr, TestLink, Mantis) Testes Funcionais e de Regressão.<br><br>Interesses:<br>Melhoria contínua dos processos de QA Exploração de novas ferramentas e tecnologias de teste Colaboração em projetos Open Source Participação em comunidades e conferências de QA.</p>
 
+###
 
-## Interesses:
-
-Melhoria contínua dos processos de QA
-Exploração de novas ferramentas e tecnologias de teste
-Colaboração em projetos Open Source
-Participação em comunidades e conferências de QA.
-
-##
-
-📫 Conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub para saber mais sobre meu trabalho!
-
-<div> 
-  <a href="https://www.linkedin.com/in/iago-guedes-943156172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:iagooliz@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iagoGii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoGii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
+###
 
-<a href="https://github.com/iagoGii(https://github.com/iagoGii)/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iagoGii&count_private=false&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/iagoGii/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoGii&show_icons=true&layout=compact&langs_count=8&card_width=320&theme=gruvbox&count_private=false" />
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="21" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="21" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="21" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="21" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="21" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="21" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="21" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="21" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="21" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="21" alt="confluence logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="27" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/iagoGii/iagoGii/output/snake.svg" alt="Snake animation" />
+
+###
 
 
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
-  
-##
-    
-
- 
 
