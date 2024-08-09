@@ -43,11 +43,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/iagoGii/iagoGii/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
