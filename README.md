@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Iago Oliveira.</h2>
+ <h2 align="left">Hi 👋! My name is Iago Oliveira.</h2>
 
 ###
 
@@ -49,10 +49,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="27" alt="discord logo"  />
 
 </div>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/iagoGii/count.svg?"  />
 
 ###
 
